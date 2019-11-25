@@ -5,3 +5,6 @@ inbuilt sort is a "flaw" in our code structure as data events is based on our no
 
 This code is **heaviliy** based on [this example](https://stackblitz.com/edit/angular-cdk-nested-drag-drop-demo) with added functionality of sort, example relations
 between nodes (restrictions) and some simple coloring. 
+
+# Example
+![img](https://github.com/Avokadoen/AngularNestetDragList/blob/master/nested-sort-list.gif)
